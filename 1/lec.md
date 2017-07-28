@@ -44,6 +44,7 @@ What is the channel example in this picture
 - Internet
 - Air waves GSM, wifi
 - ... etc
+
 ![](./pics/lec1-pic.png =100x100)
 
 ### Rules, and notations
