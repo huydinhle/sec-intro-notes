@@ -45,7 +45,7 @@ What is the channel example in this picture
 - Air waves GSM, wifi
 - ... etc
 
-<img src="./pics/lec1-pic.png" alt="Drawing" style="width: 200px;"/>
+![overall-communication](pics/lec1-pic.png)
 
 ### Rules, and notations
 - In practice, never use an untested crypt algorithm
