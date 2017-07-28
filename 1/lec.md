@@ -33,6 +33,8 @@ There are 2 branches
 - Security is the super set of cryptography
 
 # Setup for symetric cryptography
+
+### Example
 (simple) problem: communication over insecure channel
 
 Alice              **communicate**                  bob
@@ -42,4 +44,17 @@ What is the channel example in this picture
 - Internet
 - Air waves GSM, wifi
 - ... etc
+![](./pic/lec1-pic.png =100x100)
 
+### Rules, and notations
+- In practice, never use an untested crypt algorithm
+- Notations
+  -  x   == plain-text
+  -  y   == cipher-text
+  -  e   == encryption function
+  -  d   == decryption function
+  -  k   == key
+  - |k| == key space(number of keys)
+
+### What is secure channel
+- A way to exchange the secret key
