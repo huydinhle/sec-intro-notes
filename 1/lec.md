@@ -44,7 +44,7 @@ What is the channel example in this picture
 - Internet
 - Air waves GSM, wifi
 - ... etc
-![](./pic/lec1-pic.png =100x100)
+![](./pics/lec1-pic.png =100x100)
 
 ### Rules, and notations
 - In practice, never use an untested crypt algorithm
